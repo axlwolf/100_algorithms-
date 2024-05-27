@@ -16,7 +16,7 @@
     "node_modules"
   ],
   "include": [
-    "src/**/*"
+    "**/*"
   ],
   "typeRoots": [
     "node_modules/@types"
